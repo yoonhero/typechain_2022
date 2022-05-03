@@ -1,0 +1,8 @@
+{
+    "includ": [
+        "src"
+    ],
+    "compilerOptions": {
+        "outDir":"build"
+    }
+}
