@@ -1,5 +1,3 @@
-import { init } from "myPackage";
+import { init } from "./myPackage";
 
-init({
-    url: "true",
-});
+init({ debug: true, url: "a" });
